@@ -1,0 +1,25 @@
+
+.iconoP{
+    background-color: #fbbc02;
+    margin-bottom: 0px;
+}
+.img{
+    width: 250px;
+    margin-left: 10px;
+   
+}
+.banner{
+    height: 1000px;
+    margin-top: 0px;
+}
+.ini{
+    text-align: left;
+    margin-left: 20px;
+}
+.cuenta,.op{
+    text-align: right;    
+}
+
+.ini:hover{ 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

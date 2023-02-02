@@ -1,0 +1,36 @@
+body {
+    background-image: url(img/fondo.jpg);
+    background-repeat: round;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.pi {
+    background-color: rgb(100, 55, 200);
+}
+
+.ul {
+    background-color: rgb(66, 192, 110);
+}
+
+
+/*       */
+
+h1,
+h4 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.title {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pi,
+.parr,
+.ul {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.bx-microchip {
+    font-size: 50px;
+    color:green;   
+}
