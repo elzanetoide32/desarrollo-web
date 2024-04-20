@@ -38,7 +38,7 @@ const TodoList = () => {
     
       <div class="input-group mb-3">
         <input value={inputValue}
-        onChange={(e) => setInputValue(e.target.value)} type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="button-addon2"/>
+        onChange={(e) => setInputValue(e.target.value)} type="text" class="form-control"  aria-label="Recipient's username" aria-describedby="button-addon2"/>
         <button onClick={addTodo} class="btn btn-primary" type="button" id="button-addon2">Add Todo</button>
         </div>
 
