@@ -1,0 +1,26 @@
+#pedro {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.button{
+    border-radius: 10px;
+}
+
+.conteiner {
+    margin: 10px;
+}
+
+.conteiner input{
+    margin: 10px;
+}
+.conteiner span{
+    margin-left:5px;
+}
+.conteiner button{
+    background-color: transparent;
+    position: absolute;
+    right: 0;
+}
